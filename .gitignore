@@ -2,4 +2,5 @@
 *~
 *.zip
 *.mp4
-#*.pdf
+*.pdf
+shared/
